@@ -1,0 +1,28 @@
+h1{
+    font-family: 'Yeseva One', cursive;
+    font-size: 60px;
+    color: #333333
+    ;
+}
+h2{
+    font-family: 'Poppins', sans-serif;
+}
+.first-section{
+    display: flex;
+}
+.half-width{
+width: 50%;
+margin-left: 5%;
+
+}
+a{
+    color: whitesmoke;
+    text-decoration: none;
+    background-color: tomato;
+    padding: 15px 25px;
+    border-radius: 5px;
+}
+.heading-color{
+    color: #FFAD5A
+    ;
+}
